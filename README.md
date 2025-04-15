@@ -1,16 +1,14 @@
-## Hi there 👋
+# ✨ Hello! I'm Emily! ✨
 
-<!--
-**maybeemily/maybeemily** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an all around crafty person who also happens to be a software engineer. 
 
-Here are some ideas to get you started:
+### 🌱 What I'm working on right now:
+- Creating a searchable collection of vintage crewel embroidery kits for fellow enthusiasts 
+- Revitalizing a Mr.Show API I started a billion years ago
+- A karaoke roulette app to help you pick a song
+- Learning everything I can about web accessibility (a11y)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 🌐 Connect with me
+- [Personal Website](https://emilybaier.com)
+
